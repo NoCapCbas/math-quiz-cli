@@ -1,11 +1,11 @@
 # Math Quiz CLI
-Math Quiz uses problems.csv file to provide the math quiz problems.
+Math Quiz uses a 'problems.csv' file to provide the math quiz problems.
 
 ## Usage
 
 Clone Repo & Navigate to root directory
 ```shell
-git clone ... & cd ...
+git clone <repository-url> && cd <repository-directory>
 ```
 
 Build Executable
