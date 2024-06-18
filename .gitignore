@@ -1,0 +1,25 @@
+math-quiz-cli
+# Ignore all .exe files
+*.exe
+
+# Ignore common binary files
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.a
+*.lib
+*.obj
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.com
+*.iso
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+
