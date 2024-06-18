@@ -23,8 +23,8 @@ Run Executable with flags
 ```
 
 Flags
--csv: A csv file in the format of 'problem,answer'
--limit: Total time limit for the quiz in seconds
+- csv: A csv file in the format of 'problem,answer'
+- limit: Total time limit for the quiz in seconds
 
 Example
 ```shell
