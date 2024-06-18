@@ -21,11 +21,10 @@ Run Executable with flags
 ```shell
 ./math-quiz-cli -csv custom.csv -limit=30
 ```
-flags: 
--csv
-    A csv file in the format of 'problem,answer'
--limit
-    Total time limit for the quiz in seconds
+
+Flags
+-csv: A csv file in the format of 'problem,answer'
+-limit: Total time limit for the quiz in seconds
 
 Example
 ```shell
