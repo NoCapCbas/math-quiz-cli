@@ -1,4 +1,5 @@
 # Math Quiz CLI
+Math Quiz uses problems.csv file to provide the math quiz problems.
 
 ## Usage
 
@@ -16,6 +17,15 @@ Run Executable
 ```shell
 ./math-quiz-cli
 ```
+Run Executable with flags
+```shell
+./math-quiz-cli -csv custom.csv -limit=30
+```
+flags: 
+-csv
+    A csv file in the format of 'problem,answer'
+-limit
+    Total time limit for the quiz in seconds
 
 Example
 ```shell
@@ -26,3 +36,4 @@ Problem #2: 1+1 =
 3
 You scored 1 out of 2.
 ```
+
